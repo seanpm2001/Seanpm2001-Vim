@@ -5,7 +5,7 @@
 
 <img alt="2.4K Vim logo failed to load. Click/tap here to attempt to view it" src="/Vim2.4K.png" width="240" height="240"/>
 
-A listing of my Vim projects. As of 2023, Wednesday, April 5th, there are 8 total projects here.
+A listing of my Vim projects. As of 2023, Wednesday, April 5th, there are 8 total projects here. Forks are not included in this listing.
 
 - [:octocat: `Homepage (current repository)`](https://github.com/seanpm2001/Seanpm2001-Vim/)
 
@@ -49,6 +49,6 @@ A listing of my Vim projects. As of 2023, Wednesday, April 5th, there are 8 tota
 
 ***
 
-**File version:** `1 (2023, Wednesday, April 5th at 12:35 pm PST)`
+**File version:** `2 (2023, Wednesday, April 5th at 7:57 pm PST)`
 
 ***
